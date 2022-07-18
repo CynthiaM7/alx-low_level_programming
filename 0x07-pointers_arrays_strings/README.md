@@ -7,4 +7,5 @@ C - Even more pointers, arrays and strings
 4. strpbrk - Write a function that searches a string for any of a set of bytes.
 5. strstr - Write a function that locates a substring.
 6. Write a function that prints the chessboard.
- 
+7. Write a function that prints the sum of the two diagonals of a square matrix of integers.
+
